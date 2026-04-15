@@ -8,7 +8,7 @@ Thank you for visiting and taking the time to learn more about me.
 
 ## My Portfolio 💼
 - [Technical - Data Analytics, AI, Healthcare](https://github.com/EnzoE-2026/Data-Analysis-Science-Healthcare)
-- [Mathematical](https://github.com/EnzoE-2026/)
+- [Mathematical - Algebra, Calculus, Statistics and probability](https://github.com/EnzoE-2026/)
 - [Notes/Research](https://github.com/EnzoE-2026/)
 
 
