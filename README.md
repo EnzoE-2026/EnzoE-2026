@@ -6,9 +6,6 @@ My name is Enzo, and I am deeply passionate about data science and analytics, pa
 
 Thank you for visiting and taking the time to learn more about me.
 
-## 👤LinkedIn 
-- [https://www.linkedin.com/in/enzo-ekouevi-768008261/]
-
-## 📫 Contact
-
+## 📫 Contacts
+- [LinkedIn](https://www.linkedin.com/in/enzo-ekouevi-768008261/)
 - [ekouevie1@mymail.nku.edu](mailto:ekouevie1@mymail.nku.edu)
