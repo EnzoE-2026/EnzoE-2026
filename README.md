@@ -8,3 +8,7 @@ Thank you for visiting and taking the time to learn more about me.
 
 ## 👤LinkedIn 
 - [https://www.linkedin.com/in/enzo-ekouevi-768008261/]
+
+## 📫 Contact
+
+- [ekouevie1@mymail.nku.edu](mailto:ekouevie1@mymail.nku.edu)
