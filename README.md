@@ -6,6 +6,10 @@ My name is Enzo, and I am deeply passionate about data science and analytics, pa
 
 Thank you for visiting and taking the time to learn more about me.
 
+## My Portfolio 💼
+[Data Analytics, AI, Healthcare](https://github.com/EnzoE-2026/Data-Analysis-Science-Healthcare)
+
+
 ## 📫 Contacts
 - [LinkedIn](https://www.linkedin.com/in/enzo-ekouevi-768008261/)
 - [Email](mailto:ekouevie1@mymail.nku.edu)
