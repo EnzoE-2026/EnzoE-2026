@@ -11,7 +11,6 @@ Thank you for visiting and taking the time to learn more about me.
 - [Mathematical - Algebra, Calculus, Statistics and probability](https://github.com/EnzoE-2026/algebra_with_python)
 - [Notes/Research](https://github.com/EnzoE-2026/)
 
-
 ## 📫 Contacts
 - [Linkedin](https://www.linkedin.com/in/enzo-ekouevi-768008261/)
 - [Email](mailto:ekouevie1@mymail.nku.edu)
